@@ -1,4 +1,5 @@
-package OperacoesBasicas;
+package list.CarrinhoDeCompras;
+
 public class Item {
     private String nome;
     private double preco;
